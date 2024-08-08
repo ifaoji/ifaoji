@@ -2,6 +2,7 @@
 
 I'm Simon and currently I study software development at [42 Vienna](https://www.42vienna.com/) in an unusual way.
 
+<!-- Elidjah is offline
 <div align="center">
   <p>About My Studies</p>
   <a href="https://github.com/Zekao/badge42" target="_blank" rel="noopener noreferrer">
@@ -11,11 +12,11 @@ I'm Simon and currently I study software development at [42 Vienna](https://www.
     <img width="48%" src="https://badge.emaugale.com/api/v2/clx27e9gq118101qkslok3gnd/stats?cursusId=21&coalitionId=255" />
   </a>
 </div>
-
+-->
 <div align="center">
   <p>Stuff I Know</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bots,c,docker,py,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=bash,bots,c,docker,py,rust,ts,go" />
   </a>
 </div>
 
